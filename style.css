@@ -1,0 +1,792 @@
+            .container
+            {
+                width: 1140px;
+                margin: 0 auto;
+                height: auto;
+            }
+            .first-div
+            {
+                height: auto;
+                width: 100%;
+                display: inline-block;
+                color: white;
+                background-image: url(banner3.png);
+                background-repeat: no-repeat;
+                background-size: 100% 100%;
+            }
+            .navbar
+            {
+                height: auto;
+                width: 100%;
+                display: inline-block;
+            }
+            .nav-left
+            {
+                width: 40%;
+                float: left;
+            }
+            .nav-left img
+            {
+                height: 100px;
+                width: 100px;
+            }
+            .nav-right
+            {
+                width: 60%;
+                float: left;
+            }
+            .nav-right ul
+            {
+                list-style: none;
+                display: inline-flex;
+                margin-left: 50px;
+            }
+            .nav-right ul li
+            {
+                padding: 20px 20px;
+            }
+            .firstleft
+            {
+                width: 50%;
+                float: left;
+                padding-top: 50px;
+            }
+            .firstleft h1
+            {
+                font-size: 80px;
+                margin-top: -10px;
+            }
+            .firstright
+            {
+                width: 50%;
+                float: left;
+            }
+            .firstright img
+            {
+                height: 600px;
+                width: 600px;
+            }
+            .second-div
+            {
+                height: auto;
+                width: 100%;
+                display: inline-block;
+                margin-top: 20px;
+                padding-bottom: 30px;
+                color: rgba(0, 0, 0, 0.753);
+            }
+            .third-div
+            {
+                height: auto;
+                width: 100%;
+                padding-bottom: 30px;
+            }
+            .thirdleft
+            {
+                width: 25%;
+                float: left;
+            }
+            .thirdright
+            {
+                width: 25%;
+                float: left;
+            }
+            .b1
+            {
+                background-color: orange;
+                color: white;
+                padding: 10px 30px;
+            }
+            .thirdleft a
+            {
+                text-decoration: none;
+            }
+            .thirdleftimg
+            {
+                width: 25%;
+                float: left;
+            }
+            .thirdleftimg img
+            {
+                height: 250px;
+                width: 250px;
+            }
+            .b2
+            {
+                background-color: orange;
+                color: white;
+                padding: 10px 35px;
+            }
+            .thirdright a
+            {
+                text-decoration: none;
+            }
+            .thirdrightimg img
+            {
+                height: 250px;
+                width: 250px;
+            }
+            .thirdrightimg
+            {
+                width: 25%;
+                float: left;
+            }
+            .forth-div
+            {
+                height: auto;
+                width: 100%;
+                margin-bottom: 40px;
+                display: inline-block;
+            }
+            .box1
+            {
+                height: auto;
+                width: 22%;
+                float: left;
+                text-align: center;
+                box-shadow: 0px 0px 10px 3px #ccc;
+                border: 1px solid lightgrey;
+            }
+            .box1 img
+            {
+                height: 250px;
+                width: 250px;
+            }
+            .box2
+            {
+                height: auto;
+                width: 22%;
+                margin-left: 40px;
+                float: left;
+                text-align: center;
+                box-shadow: 0px 0px 10px 3px #ccc;
+                border: 1px solid lightgrey;
+            }
+            .box2 img
+            {
+                height: 250px;
+                width: 250px;
+            }
+            .box3
+            {
+                height: auto;
+                width: 22%;
+                margin-left: 40px;
+                float: left;
+                text-align: center;
+                box-shadow: 0px 0px 10px 3px #ccc;
+                border: 1px solid lightgrey;
+            }
+            .box3 img
+            {
+                height: 250px;
+                width: 200px;
+            }
+            .box4
+            {
+                height: auto;
+                width: 22%;
+                margin-left: 40px;
+                float: left;
+                text-align: center;
+                box-shadow: 0px 0px 10px 3px #ccc;
+                border: 1px solid lightgrey;
+            }
+            .box4 img
+            {
+                height: 250px;
+                width: 200px;
+            }
+            .fifth-div
+            {
+                height: auto;
+                width: 100%;
+                margin-bottom: 40px;
+                display: inline-block;
+            }
+            .box5
+            {
+                height: auto;
+                width: 22%;
+                float: left;
+                text-align: center;
+                box-shadow: 0px 0px 10px 3px #ccc;
+                border: 1px solid lightgrey;
+            }
+            .box5 img
+            {
+                height: 250px;
+                width: 250px;
+            }
+            .sixth-div
+            {
+                height: auto;
+                width: 100%;
+                color: white;
+                display: inline-block;
+                background-repeat: no-repeat;
+                background-size: 100% 100%;
+                background-image: url(banner4.png);
+                padding-bottom: 10px;
+            }
+            .sixth-left
+            {
+                width: 50%;
+                float: left;
+            }
+            .sixth-left h1
+            {
+                font-size: 40px;
+                margin-top: 55px;
+            }
+            .sixth-left h2
+            {
+                font-size: 60px;
+            }
+            .sixth-left h3
+            {
+                font-size: 25px;
+            }
+            .sixth-right
+            {
+                width: 50%;
+                float: left;
+            }
+            .sixth-right img
+            {
+                margin-top: 60px;
+                margin-left: 60px;
+                height: 450px;
+                width: 450px;
+            }
+            .sixth-left a
+            {
+                text-decoration: none;
+            }
+            .b3
+            {
+                border: 2px solid white;
+                color: white;
+                font-size: 25px;
+                padding: 10px 40px;
+            }
+            .seventh-div
+            {
+                height: auto;
+                width: 100%;
+                margin-top: 20px;
+                padding-bottom: 40px;
+                display: inline-block;
+                background-color: whitesmoke;
+            }
+            .seventh-div img
+            {
+                height: 200px;
+                width: 200px;
+            }
+            .card1
+            {
+                height: auto;
+                width: 22%;
+                float: left;
+                margin-left: 10px;
+                text-align: center;
+                box-shadow: 0px 0px 10px 3px #ccc;
+                background-color: white;
+                border: 1px solid white;
+            }
+            .card2
+            {
+                height: auto;
+                width: 22%;
+                float: left;
+                margin-left: 35px;
+                text-align: center;
+                box-shadow: 0px 0px 10px 3px #ccc;
+                background-color: white;
+                border: 1px solid white;
+            }
+            .card3
+            {
+                height: auto;
+                width: 22%;
+                float: left;
+                margin-left: 35px;
+                text-align: center;
+                box-shadow: 0px 0px 10px 3px #ccc;
+                background-color: white;
+                border: 1px solid white;
+            }
+            .card4
+            {
+                height: auto;
+                width: 22%;
+                float: left;
+                margin-left: 35px;
+                text-align: center;
+                box-shadow: 0px 0px 10px 3px #ccc;
+                background-color: white;
+                border: 1px solid white;
+            }
+            .eighth-div
+            {
+                height: auto;
+                width: 100%;
+            }
+            .eighth-div img
+            {
+                width: 200px;
+                height: 100px;
+                padding: 40px;
+            }
+            .eighth-div h1
+            {
+                padding-top: 20px;
+            }
+            .logo-list1
+            {
+                height: auto;
+                width: 100%;
+            }
+            .logo-list2
+            {
+                height: auto;
+                width: 100%;
+            }
+            .nineth-div
+            {
+                height: auto;
+                width: 100%;
+                display: inline-block;
+                margin-top: 30px;
+            }
+            .ninethleft
+            {
+                width: 50%;
+                float: left;
+            }
+            .ninethleft img
+            {
+                margin-top: 40px;
+                margin-bottom: 60px;
+                height: 50px;
+                width: 60px;
+            }
+            .ninethright
+            {
+                width: 50%;
+                float: left;
+            }
+            .ninethright img
+            {
+                height: 450px;
+                width: 350px;
+                margin-left: 130px;
+            }
+            .footer-navbar
+            {
+                height: auto;
+                width: 100%;
+                display: inline-block;
+                color: white;
+                background-color: orange;
+            }
+            .footer-navbarleft
+            {
+                width: 20%;
+                float: left;
+            }
+            .footer-navbarleft img
+            {
+                height: 100px;
+                width: 100px;
+            }
+            .footer-navbarright
+            {
+                width: 80%;
+                float: left;
+            }
+            .footer-navbarright ul
+            {
+                list-style: none;
+                display: inline-flex;
+                margin-left: 200px;
+            }
+            .footer-navbarright ul li
+            {
+                padding: 30px 30px;
+            }
+            .footer
+            {
+                height: auto;
+                width: 100%;
+                color: grey;
+            }
+            .footerleft
+            {
+                float: left;
+            }
+            .footerright
+            {
+                float: right;
+            }
+            @media only screen and (min-width:320px) and (max-width:500px)
+            {
+                *
+                {
+                    margin: 0 auto;
+                    padding: 0 auto;
+                }
+                .container
+                {
+                    margin: 0 auto;
+                    padding: 0 auto;
+                    width: 100%;
+                }
+                .first-div
+                {
+                    background-image: url(banner5.png);
+                }
+                .nav-left
+                {
+                    width: 100%;
+                    text-align: center;
+                }
+                .nav-left img
+                {
+                    height: 130px;
+                    width: 130px;
+                }
+                .nav-right
+                {
+                    width: 100%;
+                    text-align: center;
+                }
+                .nav-right ul
+                {
+                    display: inline-block;
+                    margin-left: -45px;
+                }
+                .nav-right ul li
+                {
+                    padding: 15px 0px;
+                }
+                .firstleft
+                {
+                    width: 100%;
+                    text-align: center;
+                }
+                .firstleft h1
+                {
+                    font-size: 50px;
+                    margin-bottom: 20px;
+                }
+                .firstleft h2
+                {
+                    margin-top: -10px;
+                }
+                .firstright
+                {
+                    width: 100%;
+                    text-align: center;
+                }
+                .firstright img
+                {
+                    height: 300px;
+                    width: 300px;
+                }
+                .second-div
+                {
+                    text-align: center;
+                }
+                .thirdleft
+                {
+                    width: 50%;
+                    float: inline-end;
+                }
+                .thirdleft h1
+                {
+                    padding-bottom: 20px;
+                }
+                .thirdright
+                {
+                    width: 50%;
+                    float: inline-end;
+                    margin-top: 20px;
+                }
+                .thirdright h1
+                {
+                    padding-bottom: 20px;
+                }
+                .b1
+                {
+                    padding: 10px 10px;
+                }
+                .thirdleftimg
+                {
+                    width: 50%;
+                    float: inline-start;
+                }
+                .thirdleftimg img
+                {
+                    height: 150px;
+                    width: 150px;
+                }
+                .b2
+                {
+                    padding: 10px 20px;
+                }
+                .thirdrightimg img
+                {
+                    height: 150px;
+                    width: 150px;
+                }
+                .thirdrightimg
+                {
+                    width: 50%;
+                    float: inline-start;
+                    margin-top: 20px;
+                }
+                .forth-div
+                {
+                    text-align: center;
+                    margin-top: 20px;
+                    margin-bottom: 15px;
+                }
+                .box1
+                {
+                    width: 40%;
+                    margin-left: 20px;
+                }
+                .box1 img
+                {
+                    height: 150px;
+                    width: 100%;
+                }
+                .box2
+                {
+                    width: 40%;
+                    margin-left: 25px;
+                }
+                .box2 img
+                {
+                    height: 150px;
+                    width: 100%;
+                }
+                .box3
+                {
+                    width: 40%;
+                    margin-left: 20px;
+                    margin-top: 15px;
+                }
+                .box3 img
+                {
+                    height: 150px;
+                    width: 100%;
+                }
+                .box4
+                {
+                    width: 40%;
+                    margin-left: 25px;
+                    margin-top: 15px;
+                }
+                .box4 img
+                {
+                    height: 150px;
+                    width: 100%;
+                }
+                .box5
+                {
+                    width: 40%;
+                    margin-left: 20px;
+                }
+                .box5 img
+                {
+                    height: 150px;
+                    width: 100%;
+                }
+                .box6
+                {
+                    width: 40%;
+                    margin-left: 25px;
+                }
+                .box6 img
+                {
+                    height: 150px;
+                    width: 100%;
+                }
+                .box7
+                {
+                    width: 40%;
+                    margin-left: 20px;
+                    margin-top: 15px;
+                }
+                .box7 img
+                {
+                    height: 150px;
+                    width: 100%;
+                }
+                .box8
+                {
+                    width: 40%;
+                    margin-left: 25px;
+                    margin-top: 15px;
+                }
+                .box8 img
+                {
+                    height: 150px;
+                    width: 100%;
+                }
+                .sixth-div
+                {
+                    background-image: url(banner6.png);
+                    padding-bottom: 10px;
+                }
+                .sixth-left
+                {
+                    width: 100%;
+                    text-align: center;
+                }
+                .sixth-left h1
+                {
+                    margin-top: 60px;
+                    font-size: 35px;
+                }
+                .sixth-left h2
+                {
+                    font-size: 40px;
+                }
+                .sixth-left h3
+                {
+                    font-size: 20px;
+                    padding-bottom: 25px;
+                }
+                .b3
+                {
+                    padding: 10px 80px;
+                }
+                .sixth-right
+                {
+                    width: 100%;
+                    text-align: center;
+                }
+                .sixth-right img
+                {
+                    margin-top: 20px;
+                    margin-left: 0px;
+                    height: 250px;
+                    width: 250px;
+                }
+                .seventh-div
+                {
+                    text-align: center;
+                    margin-top: 20px;
+                    padding-bottom: 40px;
+                }
+                .seventh-div img
+                {
+                    height: 150px;
+                    width: 100%;
+                }
+                .card1
+                {
+                    width: 35%;
+                    margin-left: 15px;
+                    padding: 10px;
+                }
+                .card2
+                {
+                    width: 35%;
+                    margin-left: 25px;
+                    padding: 10px;
+                }
+                .card3
+                {
+                    width: 35%;
+                    margin-top: 20px;
+                    margin-left: 15px;
+                    padding: 10px;
+                }
+                .card4
+                {
+                    width: 35%;
+                    margin-top: 20px;
+                    margin-left: 25px;
+                    padding: 10px;
+                }
+                .eighth-div
+                {
+                    text-align: center;
+                }
+                .eighth-div h1
+                {
+                    padding-bottom: 20px;
+                }
+                .eighth-div img
+                {
+                    width: 150px;
+                    height: 100px;
+                    padding: 5px;
+                }
+                .nineth-div
+                {
+                    text-align: center;
+                }
+                .ninethleft
+                {
+                    width: 100%;
+                    text-align: left;
+                }
+                .ninethleft h3
+                {
+                    font-size: 25px;
+                }
+                .ninethleft h2
+                {
+                    padding-left: 50px;
+                    padding-top: 20px;
+                    padding-bottom: 20px;
+                }
+                .ninethright
+                {
+                    display: none;
+                }
+                .footer-navbar
+                {
+                    text-align: center;
+                }
+                .footer-navbarleft
+                {
+                    width: 100%;
+                }
+                .footer-navbarleft img
+                {
+                    height: 130px;
+                    width: 130px;
+                }
+                .footer-navbarright
+                {
+                    width: 100%;
+                }
+                .footer-navbarright ul
+                {
+                    display: inline-block;
+                    margin-left: -45px;
+                }
+                .footer-navbarright ul li
+                {
+                    padding: 20px 0px;
+                }
+                .footerleft
+                {
+                    text-align: center;
+                    padding-left: 110px;
+                }
+                .footerright
+                {
+                    float: left;
+                    padding-left: 80px;
+                    text-align: center;
+                }
+
+            }
